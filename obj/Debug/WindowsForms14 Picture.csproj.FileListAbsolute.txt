@@ -1,0 +1,10 @@
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\bin\Debug\WindowsForms14 Picture.exe.config
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\bin\Debug\WindowsForms14 Picture.exe
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\bin\Debug\WindowsForms14 Picture.pdb
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14 Picture.csprojAssemblyReference.cache
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14_Picture.Form1.resources
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14_Picture.Properties.Resources.resources
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14 Picture.csproj.GenerateResource.cache
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14 Picture.csproj.CoreCompileInputs.cache
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14 Picture.exe
+C:\Users\jouninieminen\source\repos\WindowsForms14 Picture\WindowsForms14 Picture\obj\Debug\WindowsForms14 Picture.pdb
